@@ -10,6 +10,8 @@ TagManager:
   - Tomato
   - Chicken
   - Cow
+  - PanelLoadGame
+  - SaveData
   layers:
   - Default
   - TransparentFX

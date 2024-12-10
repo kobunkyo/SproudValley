@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class CounterManager : MonoBehaviour
 {
+
     public static CounterManager Instance;
     [SerializeField]
     Text corn;
@@ -46,4 +47,6 @@ public class CounterManager : MonoBehaviour
     {
         maxTomato--;
     }
+
+
 }
